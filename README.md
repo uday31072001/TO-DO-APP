@@ -2,10 +2,10 @@
 ToDo App using Flutter implemented with Hive DataBase
 
 ## Current Features
-Add and manage tasks
-Overview of all your tasks at a glance
-Beautiful Material design and interface
-Data stored offline all locally on your device
+* Add and manage tasks
+* Overview of all your tasks at a glance
+* Beautiful Material design and interface
+* Data stored offline all locally on your device
 
 Screenshot
 

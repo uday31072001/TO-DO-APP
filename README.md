@@ -10,7 +10,7 @@ ToDo App using Flutter implemented with Hive DataBase
 ## Screenshot
 
 ### Splash screen
-# ![image](https://user-images.githubusercontent.com/70059483/211195936-533e8aff-dda4-4979-9b87-b073c8613754.png)
+![image](https://user-images.githubusercontent.com/70059483/211195936-533e8aff-dda4-4979-9b87-b073c8613754.png)
 
 ### Home
 <img width="356" alt="image" src="https://user-images.githubusercontent.com/70059483/211195742-4b8e140c-21a5-4fd4-be78-a0f38ce57b63.png">
